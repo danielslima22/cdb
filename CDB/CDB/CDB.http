@@ -1,0 +1,6 @@
+@CDB_HostAddress = http://localhost:5077
+
+GET {{CDB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

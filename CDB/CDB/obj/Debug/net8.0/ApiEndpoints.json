@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "CDB.API.Controllers.CdbController",
+    "Method": "CalcularCdb",
+    "RelativePath": "api/cdb/calcular",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CDB.API.Application.Queries.CalcularCdbQuery",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

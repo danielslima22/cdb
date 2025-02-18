@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\CDB\\CDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A623B8-9BC6-48E2-88F3-950D3FC5F87E}|CDB\\CDB.API.csproj|c:\\projetos\\cdb\\cdb\\cdb\\application\\handlers\\calcularcdbqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0A623B8-9BC6-48E2-88F3-950D3FC5F87E}|CDB\\CDB.API.csproj|solutionrelative:cdb\\application\\handlers\\calcularcdbqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A623B8-9BC6-48E2-88F3-950D3FC5F87E}|CDB\\CDB.API.csproj|c:\\projetos\\cdb\\cdb\\cdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0A623B8-9BC6-48E2-88F3-950D3FC5F87E}|CDB\\CDB.API.csproj|solutionrelative:cdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A623B8-9BC6-48E2-88F3-950D3FC5F87E}|CDB\\CDB.API.csproj|c:\\projetos\\cdb\\cdb\\cdb\\controllers\\cdbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0A623B8-9BC6-48E2-88F3-950D3FC5F87E}|CDB\\CDB.API.csproj|solutionrelative:cdb\\controllers\\cdbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A623B8-9BC6-48E2-88F3-950D3FC5F87E}|CDB\\CDB.API.csproj|c:\\projetos\\cdb\\cdb\\cdb\\service\\icdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0A623B8-9BC6-48E2-88F3-950D3FC5F87E}|CDB\\CDB.API.csproj|solutionrelative:cdb\\service\\icdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A623B8-9BC6-48E2-88F3-950D3FC5F87E}|CDB\\CDB.API.csproj|c:\\projetos\\cdb\\cdb\\cdb\\service\\cdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0A623B8-9BC6-48E2-88F3-950D3FC5F87E}|CDB\\CDB.API.csproj|solutionrelative:cdb\\service\\cdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A623B8-9BC6-48E2-88F3-950D3FC5F87E}|CDB\\CDB.API.csproj|c:\\projetos\\cdb\\cdb\\cdb\\models\\cdbrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0A623B8-9BC6-48E2-88F3-950D3FC5F87E}|CDB\\CDB.API.csproj|solutionrelative:cdb\\models\\cdbrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CED057-B23A-41B2-B334-FA3D602A38ED}|CDB.API.Tests\\CDB.API.Tests.csproj|c:\\projetos\\cdb\\cdb\\cdb.api.tests\\cdbservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CED057-B23A-41B2-B334-FA3D602A38ED}|CDB.API.Tests\\CDB.API.Tests.csproj|solutionrelative:cdb.api.tests\\cdbservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalcularCdbQueryHandler.cs",
+              "DocumentMoniker": "C:\\Projetos\\CDB\\CDB\\CDB\\Application\\Handlers\\CalcularCdbQueryHandler.cs",
+              "RelativeDocumentMoniker": "CDB\\Application\\Handlers\\CalcularCdbQueryHandler.cs",
+              "ToolTip": "C:\\Projetos\\CDB\\CDB\\CDB\\Application\\Handlers\\CalcularCdbQueryHandler.cs",
+              "RelativeToolTip": "CDB\\Application\\Handlers\\CalcularCdbQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T11:05:01.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CdbRequest.cs",
+              "DocumentMoniker": "C:\\Projetos\\CDB\\CDB\\CDB\\Models\\CdbRequest.cs",
+              "RelativeDocumentMoniker": "CDB\\Models\\CdbRequest.cs",
+              "ToolTip": "C:\\Projetos\\CDB\\CDB\\CDB\\Models\\CdbRequest.cs",
+              "RelativeToolTip": "CDB\\Models\\CdbRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T15:26:21.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\CDB\\CDB\\CDB\\Program.cs",
+              "RelativeDocumentMoniker": "CDB\\Program.cs",
+              "ToolTip": "C:\\Projetos\\CDB\\CDB\\CDB\\Program.cs",
+              "RelativeToolTip": "CDB\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T15:20:22.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICdbService.cs",
+              "DocumentMoniker": "C:\\Projetos\\CDB\\CDB\\CDB\\Service\\ICdbService.cs",
+              "RelativeDocumentMoniker": "CDB\\Service\\ICdbService.cs",
+              "ToolTip": "C:\\Projetos\\CDB\\CDB\\CDB\\Service\\ICdbService.cs",
+              "RelativeToolTip": "CDB\\Service\\ICdbService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T14:27:15.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CdbServiceTests.cs",
+              "DocumentMoniker": "C:\\Projetos\\CDB\\CDB\\CDB.API.Tests\\CdbServiceTests.cs",
+              "RelativeDocumentMoniker": "CDB.API.Tests\\CdbServiceTests.cs",
+              "ToolTip": "C:\\Projetos\\CDB\\CDB\\CDB.API.Tests\\CdbServiceTests.cs",
+              "RelativeToolTip": "CDB.API.Tests\\CdbServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T14:17:39.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CdbController.cs",
+              "DocumentMoniker": "C:\\Projetos\\CDB\\CDB\\CDB\\Controllers\\CdbController.cs",
+              "RelativeDocumentMoniker": "CDB\\Controllers\\CdbController.cs",
+              "ToolTip": "C:\\Projetos\\CDB\\CDB\\CDB\\Controllers\\CdbController.cs",
+              "RelativeToolTip": "CDB\\Controllers\\CdbController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:44:49.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CdbService.cs",
+              "DocumentMoniker": "C:\\Projetos\\CDB\\CDB\\CDB\\Service\\CdbService.cs",
+              "RelativeDocumentMoniker": "CDB\\Service\\CdbService.cs",
+              "ToolTip": "C:\\Projetos\\CDB\\CDB\\CDB\\Service\\CdbService.cs",
+              "RelativeToolTip": "CDB\\Service\\CdbService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:42:01.844Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

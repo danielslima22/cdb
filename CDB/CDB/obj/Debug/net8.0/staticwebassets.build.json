@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "h82tf/e7lK5ACxsTYPemko+CnAL3KF203WFLIaJbIss=",
+  "Source": "CDB.API",
+  "BasePath": "_content/CDB.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
